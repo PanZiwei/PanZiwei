@@ -2,7 +2,7 @@
 
 I am Ziwei.
 
-Read more on my [blog](https://ziweipan.name).
+Read more on my [blog](https://ziweipan.me).
 
 ![stats](https://github-readme-stats.vercel.app/api?username=PanZiwei&show_icons=true)
 
