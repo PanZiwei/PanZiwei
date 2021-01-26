@@ -5,7 +5,7 @@ I am Ziwei Pan.
 
 Read more on my [blog](https://ziweipan.me).
 
-<img align='right' src='https://octodex.github.com/images/bewitchedtocat.jpg' width='350"'>
+<img align='right' src='https://octodex.github.com/images/bewitchedtocat.jpg' width='340"'>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=PanZiwei&show_icons=true)
 
