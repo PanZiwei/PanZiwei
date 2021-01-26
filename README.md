@@ -3,7 +3,7 @@
 
 I am Ziwei Pan.
 
-<img align='right' src='https://octodex.github.com/images/bewitchedtocat.jpg' width='400"'>
+<img align='right' src='https://octodex.github.com/images/bewitchedtocat.jpg' width='300"'>
 
 Read more on my [blog](https://ziweipan.me).
 
