@@ -3,10 +3,9 @@
 
 I am Ziwei Pan.
 
-<img align='right' src='https://octodex.github.com/images/bewitchedtocat.jpg' width='300"'>
-
 Read more on my [blog](https://ziweipan.me).
 
+<img align='right' src='https://octodex.github.com/images/bewitchedtocat.jpg' width='400"'>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=PanZiwei&show_icons=true)
 
