@@ -5,15 +5,15 @@ I am Ziwei Pan.
 
 Read more on my [blog](https://ziweipan.me).
 
-<p align="left">
-<a href="https://github.com/PanZiwei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PanZiwei&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PanZiwei&layout=compact&langs_count=8"/>
-</a>
-</p>
-
- <!--img align='right' src='https://octodex.github.com/images/bewitchedtocat.jpg' width='100"'>
-
+<img src= 
+"https://github-readme-stats.vercel.app/api?username=PanZiwei&show_icons=true" 
+         width='445'
+         align="left"> 
+         
+<img src= 
+"https://github-readme-stats.vercel.app/api/top-langs/?username=PanZiwei&layout=compact" 
+         width='435'
+         align="center"> 
 
 <!--
 **PanZiwei/PanZiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
