@@ -7,13 +7,11 @@ Read more on my [blog](https://ziweipan.me).
 
 <img src= 
 "https://github-readme-stats.vercel.app/api?username=PanZiwei&show_icons=true" 
-         width='445'
          align="left"> 
          
 <img src= 
 "https://github-readme-stats.vercel.app/api/top-langs/?username=PanZiwei&layout=compact" 
-         width='435'
-         align="center"> 
+         align="left"> 
 
 <!--
 **PanZiwei/PanZiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
