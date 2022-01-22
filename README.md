@@ -7,9 +7,9 @@
 
 
 <p align="left">
-  <a href="https://github.com/PanZiwei" target="_blank"><img align="center" src="https://img.icons8.com/material-outlined/32/000000/github.png" alt="Ziwei Pan" height="20" width="20" /></a>
+  <a href="https://github.com/PanZiwei" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Ziwei Pan" height="20" width="20" /></a>
   <a href="https://www.linkedin.com/in/ziweipan/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Ziwei Pan" height="20" width="20" /></a>
-  <a href="https://ziweipan.notion.site/ZIWEI-PAN-fa250ca3372a43f28c893150dbd555f1" target="_blank"><img align="center" <img src="https://img.icons8.com/material-outlined/24/000000/notion--v1.png" alt="Ziwei Pan" height="20" width="20" /></a>
+  <a href="https://ziweipan.notion.site/ZIWEI-PAN-fa250ca3372a43f28c893150dbd555f1" target="_blank"><img align="center" <img src="https://img.icons8.com/plasticine/100/000000/notion.png" alt="Ziwei Pan" height="20" width="20" /></a>
   <a href="mailto:ziweipan9@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Ziwei Pan" height="15" width="15" /></a>
 </p>
 
