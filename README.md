@@ -1,9 +1,18 @@
-### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/PanZiwei)
+### Hi there 👋 I'm Ziwei!
 
-I am Ziwei Pan.
+- 👩‍🎓 I’m currently PhD student majoring in Computational Biology...
+- 🌱 I mainly used Python and R. Recently I am learning SQL and Go. 
+- ⚡ Fun fact: Big fan of Harry Potter; Dog lover; Freelance writer.
+- 📰 Read more on my [website](https://ziweipan.notion.site/ZIWEI-PAN-fa250ca3372a43f28c893150dbd555f1).
 
-Read more on my [blog](https://ziweipan.me).
+
+<p align="center">
+  <a href="https://github.com/PanZiwei" target="_blank"><img align="center" src="https://img.icons8.com/material-outlined/32/000000/github.png" alt="Ziwei Pan" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/ziweipan/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Ziwei Pan" height="30" width="30" /></a>
+  <a href="https://ziweipan.notion.site/ZIWEI-PAN-fa250ca3372a43f28c893150dbd555f1" target="_blank"><img align="center" <img src="https://img.icons8.com/material-outlined/24/000000/notion--v1.png" alt="Ziwei Pan" height="30" width="30" /></a>
+  <a href="mailto:ziweipan9@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Ziwei Pan" height="25" width="25" /></a>
+</p>
+
 
 <img src= 
 "https://github-readme-stats.vercel.app/api?username=PanZiwei&show_icons=true" 
