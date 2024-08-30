@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ziwei!
 
-- 👩‍🎓 I’m a newly minted PhD majoring in Computational Biology.
+- 👩‍🎓 I’m a newly minted PhD majoring in Computational Biology/Bioinformatics.
 - 🌱 I mainly used Python and R. Recently I am learning SQL and Go. 
 - ⚡ Fun fact: Big fan of Harry Potter; Dog lover; Freelance writer.
 
