@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ziwei!
 
-- 👩‍🎓 I’m a newly minted PhD majoring in Computational Biology/Bioinformatics.
+- 👩‍🎓 PhD in STEM.
 - 🌱 I mainly used Python and R. Recently I am learning SQL and Go. 
 - ⚡ Fun fact: Big fan of Harry Potter; Dog lover; Freelance writer.
 
