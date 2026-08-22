@@ -10,9 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-PanZiwei-181717?style=flat-square&logo=github)](https://github.com/PanZiwei)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziwei%20Pan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ziweiPan)
 
-## 🏆 GitHub Profile Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=PanZiwei&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📊 GitHub Stats:
 
 <div align="center">
