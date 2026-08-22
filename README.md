@@ -1,40 +1,27 @@
-### Hi there 👋 I'm Ziwei!
+# Hi there 👋 I'm Ziwei
 
-- 👩‍🎓 PhD in STEM.
-- 🌱 I mainly used Python and R. Recently I am learning SQL and Go. 
-- ⚡ Fun fact: Big fan of Harry Potter; Dog lover; Freelance writer.
+- 👩‍🎓 Data Scientist passionate about turning data into insights
+- 🌱 I mainly code in Python and R. Currently learning Rust
+- 🐕 Proud dog mom of Sesame
+- ⚡ Fun fact: Big fan of Harry Potter | Dog lover | Freelance writer
+- 😄 Pronouns: She/Her
 
+## 🏆 GitHub Profile Trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=PanZiwei&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left">
-  <a href="https://github.com/PanZiwei" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-filled-2/24/social_media-20-512.png" alt="Ziwei Pan" height="20" width="20" /></a>
-  <a href="https://www.linkedin.com/in/ziweipan/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Ziwei Pan" height="20" width="20" /></a>
-  <a href="mailto:panziwei9@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Ziwei Pan" height="15" width="15" /></a>
-</p>
+## 📊 GitHub Stats:
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/PanZiwei)
+<div align="center">
 
+### Profile Overview
+![Ziwei's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PanZiwei&theme=solarized_dark)
 
-<img src= 
-"https://github-readme-stats.vercel.app/api?username=PanZiwei&show_icons=true" 
-         align="left"> 
-         
-<img src= 
-"https://github-readme-stats.vercel.app/api/top-langs/?username=PanZiwei&layout=compact" 
-         align="left"> 
+### Languages & Contributions
+![Ziwei's Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PanZiwei&theme=solarized_dark)
+![Ziwei's Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PanZiwei&theme=solarized_dark)
 
+### Activity Insights
+![Ziwei's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PanZiwei&theme=solarized_dark)
+![Ziwei's Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PanZiwei&theme=solarized_dark)
 
-
-<!--
-**PanZiwei/PanZiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
