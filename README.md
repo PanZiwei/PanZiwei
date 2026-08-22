@@ -6,6 +6,11 @@
 - ⚡ Fun fact: Big fan of Harry Potter | Dog lover | Freelance writer
 - 😄 Pronouns: She/Her
 
+## 🔗 Connect with Me:
+[![GitHub](https://img.shields.io/badge/GitHub-PanZiwei-181717?style=flat-square&logo=github)](https://github.com/PanZiwei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziwei%20Pan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ziweiPan)
+[![Email](https://img.shields.io/badge/Email-ziwei.pan%40sagebase.org-EA4335?style=flat-square&logo=gmail)](mailto:ziwei.pan@sagebase.org)
+
 ## 🏆 GitHub Profile Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=PanZiwei&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
